@@ -1,3 +1,3 @@
 - I'm Hashir, a computer science programmer based in Toronto, Ontario, Canada.
-- Proficient in Python, Java, HTML, CSS & JavaScript
+- Proficient in Python, Dart, Java, HTML, CSS, JavaScript/TypeScript C#, C & Bash
 - Reach me at https://www.linkedin.com/in/hashir-sami/
