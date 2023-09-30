@@ -1,3 +1,3 @@
 - I'm Hashir, a programmer based in Toronto, Canada.
-- I love Python, Angular, and Flutter
+- I love Python, Angular, TypeScript, Java, and Flutter
 - Reach me at https://www.linkedin.com/in/hashir-sami/
